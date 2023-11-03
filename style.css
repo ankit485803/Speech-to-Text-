@@ -1,0 +1,9 @@
+
+body {
+    background-color: rgb(51, 204, 204);
+}
+
+#topics {
+    color: rgba(234, 27, 27,0.88);
+    font-weight:bolder;
+}
